@@ -1,2 +1,3 @@
-# earthquest
-EarthQuest interactive narrative adventure game and AI demo playground
+# EarthQuest
+
+An interactive narrative adventure game and AI demo playground
