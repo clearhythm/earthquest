@@ -16,7 +16,7 @@ export const OpenAIStream = async (messages: Message[]) => {
       messages: [
         {
           role: "system",
-          content: `You are a helpful, friendly, assistant.`
+          content: `You are a storytelling AI. Whatever the user types, respond with a paragraph of text that continues the story. End each paragraph with the phrase "What would you like to do next"?`
         },
         ...messages
       ],

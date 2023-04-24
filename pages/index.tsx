@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Chatbot UI, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `You're standing on the edge of a cliff, overlooking a vast ocean that stretches out before you. The sun is setting in a fiery blaze of orange and red, casting a warm glow over everything around you. As you take in the beauty of the scene, a nagging feeling creeps into the back of your mind. Night is settling in. What would you like to do next?`
       }
     ]);
   };
@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Chatbot UI, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `You're standing on the edge of a cliff, overlooking a vast ocean that stretches out before you. The sun is setting in a fiery blaze of orange and red, casting a warm glow over everything around you. As you take in the beauty of the scene, a nagging feeling creeps into the back of your mind. Night is settling in. What would you like to do next?`
       }
     ]);
   }, []);
