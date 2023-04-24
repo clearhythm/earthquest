@@ -101,10 +101,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Chatbot UI</title>
+        <title>EarthQuest</title>
         <meta
           name="description"
-          content="A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS."
+          content="An interactive narrative adventure game and AI demo playground"
         />
         <meta
           name="viewport"
